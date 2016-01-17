@@ -1,4 +1,4 @@
-.flag, .lang {
+.flag {
 	width: 16px;
 	height: 11px;
 	background:url(flags.png) no-repeat
@@ -67,6 +67,7 @@
 .flag.flag-eg {background-position: -208px -33px}
 .flag.flag-eh {background-position: -224px -33px}
 .flag.flag-england {background-position: -240px -33px}
+.flag.flag-en {background-position: -160px -154px}
 .flag.flag-er {background-position: 0 -44px}
 .flag.flag-es {background-position: -16px -44px}
 .flag.flag-et {background-position: -32px -44px}
@@ -238,7 +239,6 @@
 .flag.flag-ug {background-position: -128px -154px}
 .flag.flag-um {background-position: -144px -154px}
 .flag.flag-us {background-position: -160px -154px}
-.flag.flag-en {background-position: -160px -154px}
 .flag.flag-uy {background-position: -176px -154px}
 .flag.flag-uz {background-position: -192px -154px}
 .flag.flag-va {background-position: -208px -154px}
