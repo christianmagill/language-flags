@@ -1,3 +1,2 @@
-# Country/language proxy repo
-Proxy repository for compiled country/language flags.
-Based on https://www.flag-sprites.com
+# Country/Language Flags
+This project provides language flag sprites. Forked from phpffcms/language-flags and adapted to work with Sass.

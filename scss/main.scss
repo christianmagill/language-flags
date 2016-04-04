@@ -1,7 +1,9 @@
+$language-flags-image-directory: "../images";
+
 .flag {
-	width: 16px;
-	height: 11px;
-	background:url(flags.png) no-repeat
+  width: 16px;
+  height: 11px;
+  background:url('#{$language-flags-image-directory}/flags.png') no-repeat;
 }
 
 .flag.flag-ad {background-position: -16px 0}
